@@ -115,7 +115,7 @@ Run live server with root using the public folder and view the site.
 
 To configure live server to serve from the public folder create a `.vscode` folder in the project root with a `settings.json` with the following contents:
 
-```
+```json
 {
   "liveServer.settings.root": "/public"
 }
