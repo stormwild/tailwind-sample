@@ -112,3 +112,8 @@ Create an `index.html` page in the public directory with the following contents:
 ```
 
 Run live server with root using the public folder and view the site.
+
+## References
+
+- [Setting up Tailwind and PostCSS](https://tailwindcss.com/course/setting-up-tailwind-and-postcss/)
+
