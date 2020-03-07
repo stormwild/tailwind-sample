@@ -113,6 +113,16 @@ Create an `index.html` page in the public directory with the following contents:
 
 Run live server with root using the public folder and view the site.
 
+To configure live server to serve from the public folder create a `.vscode` folder in the project root with a `settings.json` with the following contents:
+
+```
+{
+  "liveServer.settings.root": "/public"
+}
+```
+
+If you haven't already ensure you have live server installed on vscode.
+
 ## References
 
 - [Setting up Tailwind and PostCSS](https://tailwindcss.com/course/setting-up-tailwind-and-postcss/)
